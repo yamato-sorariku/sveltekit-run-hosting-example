@@ -1,0 +1,5 @@
+/app/.svelte-kit
+/app/build
+/app/node_modules
+.git
+.idea
